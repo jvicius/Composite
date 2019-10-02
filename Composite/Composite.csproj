@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Componente\ComponenteRecambio.cs" />
+    <Compile Include="Composite\Recambio.cs" />
+    <Compile Include="Hoja\ElementoRecambio.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
